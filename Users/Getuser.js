@@ -5,7 +5,7 @@ const mongoose = require('mongoose');
 const connectdb = require('./db/connect');
 const userModel = require('./Models/user');
 require('dotenv').config();
-const uri = process.uri.MONGO_URI;
+const uri = process.env.MONGO_URI;
 
 connectdb(uri);
 
