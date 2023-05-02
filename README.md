@@ -1,4 +1,5 @@
 
+
 ![Logo](https://cdn.cp.adobe.io/content/2/dcx/f68e4034-677a-468e-95f9-0b2f617bc9eb/rendition/preview.jpg/version/3/format/jpg/dimension/width/size/1200)
 
 
@@ -60,4 +61,19 @@ To run this project, you will need to add the following environment variables to
 
 - MINDDB_P - Add your Mindsdb password
 `MINDDB_P`
+
+
+## SmartMw Screenshots
+
+- Landing page that contains information about the website and our services
+![App Screenshot](https://raw.githubusercontent.com/captain0jay/SmartMw/master/Readmess/Screenshot%20(273).png)
+
+- Dashboard after user has successfully logged in
+![App Screenshot](https://raw.githubusercontent.com/captain0jay/SmartMw/master/Readmess/Screenshot%20(269).png)
+
+- New cluster a user can add to recieve the documents directly from their database
+![App Screenshot](https://raw.githubusercontent.com/captain0jay/SmartMw/master/Readmess/Screenshot%20(270).png)
+
+- Inside 'aiblogger' cluster which has 1 document and the document value is used with sentiment analysis to find out that its value is +ve
+![App Screenshot](https://raw.githubusercontent.com/captain0jay/SmartMw/master/Readmess/Screenshot%20(268).png)
 
